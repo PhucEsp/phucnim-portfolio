@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  phucnim-portfolio:
+    container_name: phucnim-portfolio
+    network_mode: "host"
+    build: ./
+    env_file:
+      - .env
+    volumes:
+      - ./:/app
+    command: bash -c "yarn && yarn dev"
