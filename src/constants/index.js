@@ -104,10 +104,6 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "Sql",
-    icon: sql,
-  },
-  {
     name: "Git",
     icon: git,
   },
