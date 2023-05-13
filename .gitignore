@@ -23,14 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
-# dotenv environment variables file
 .env
-.env.test
 
-.idea/
-build/
-.vscode/
-
-# Package Lock
-package-lock.json
-yarn.lock
+# vscode
+.vscode
