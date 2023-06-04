@@ -138,15 +138,15 @@ const experiences = [
     date: "March 2022 - Now",
     points: [
       "Developing and maintaining web applications using Django, Vuejs and other related technologies.",
-      "Implement micro-service and integrate into existing large application",
-      "Solve application performance issues",
+      "Implementing micro-service using Nodejs and integrate into existing large application.",
+      "Solving application performance issues.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   {
     title: "Project Manager",
-    company_name: "Google",
+    company_name: "Shoppe",
     icon: shopify,
     iconBg: "#383E56",
     date: "In The Future",
